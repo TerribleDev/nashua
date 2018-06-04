@@ -8,7 +8,7 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
 
 ![Nashua city hall](city.jpg)
 
-## Contents
+## Table of Contents
 
 * [Travel Tips](#travel-tips)
   * Pronunciation guide
