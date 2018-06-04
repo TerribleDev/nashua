@@ -1,10 +1,12 @@
 # A travel guide to Nashua, NH, USA
 
-![Nashua city hall](city.jpg)
 
 ## AKA The Gate City
 
 Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is a a half hour hour drive Manchester, and an hour drive to Boston, and Portsmouth.
+
+
+![Nashua city hall](city.jpg)
 
 ## Contents
 
