@@ -1,5 +1,3 @@
-> Under construction: This page is still under construction and may contain missing, or innacurate data
-
 # A travel guide to Nashua, NH, USA
 
 
@@ -13,15 +11,14 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
 ## Table of Contents
 
 * [Travel Tips](#travel-tips)
+* [Murals](#murals)
 * [Coffee Land](#coffee-land)
+* [Bars](#bars)
 * [Food](#food)
   * [Breakfast](#breakfast)
   * [Lunch](#lunch)
   * [Dinner](#dinner)
-* [Bars](#bars)
-* [Murals](#murals)
 * [Great American Downtown](#great-american-downtown)
-* [See also](#see-also)
 
 ## Travel Tips
 
