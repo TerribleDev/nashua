@@ -75,7 +75,7 @@ Nashua has a load of bars. Generally speaking they are open until 2am, and they 
 
 ## Food
 
-There is quite a large range of food given the size of the city. Many restaurants are also [coffee shops](#coffee-land). Nashua's restaurants usually fall into to categories. Places that close at 3pm, and places that open at 5pm. Eating between the hours of 3-5pm are quite hard. Outside of this list, there are many chain restaurants in town, and the food court in the mall is usually good.
+There is quite a large range of food given the size of the city. Many restaurants are also [coffee shops](#coffee-land). Nashua's restaurants usually fall into two categories. Places that close at 3pm, and places that open at 5pm. Eating between the hours of 3-5pm are quite hard. Outside of this list, there are many chain restaurants in town, and the food court in the mall is usually good.
 
 ### Breakfast 
 
