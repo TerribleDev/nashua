@@ -15,9 +15,9 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
 * [Travel Tips](#travel-tips)
 * [Coffee Land](#coffee-land)
 * [Food](#food)
-  * Breakfast
-  * Lunch
-  * Dinner
+  * [Breakfast](#breakfast)
+  * [Lunch](#lunch)
+  * [Dinner](#dinner)
 * [Bars](#bars)
 * [Murals](#murals)
 * [Great American Downtown](#great-american-downtown)
