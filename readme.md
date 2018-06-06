@@ -3,7 +3,7 @@
 
 ## AKA The Gate City
 
-Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is a a half hour hour drive Manchester, and an hour drive to Boston, and Portsmouth.
+Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is a a half hour hour drive from Manchester, and an hour drive to Boston, and Portsmouth. We're famous for having a [Dunder Mifflin](http://theoffice.wikia.com/wiki/Dunder_Mifflin_Nashua) branch in the show *the office*. We were named twice the best place to live by money magazine. 
 
 
 ![Nashua city hall](city.jpg)
@@ -38,13 +38,13 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
 
 ## Murals
 
-The city of nashua has a bunch of awesome murals. You can see where all the murals in [this google map](https://www.google.com/maps/d/viewer?mid=1QDZzmmF54-I8nXO0vhxPcLkFig0&hl=en&ll=42.760100231886256%2C-71.46786625000004&z=16). Nashua's murals were made by [Positive Street Art](http://www.positivestreetart.org/), a really cool non-profit in town
+The city of Nashua has a bunch of awesome murals. You can see where all the murals in [this google map](https://www.google.com/maps/d/viewer?mid=1QDZzmmF54-I8nXO0vhxPcLkFig0&hl=en&ll=42.760100231886256%2C-71.46786625000004&z=16). Nashua's murals were made by [Positive Street Art](http://www.positivestreetart.org/), a really cool non-profit in town
 
 ![A mural dedication was held on the morning of Veterans Day, 2017 where this above image was taken. It depicts veterans in attendance representing their branch by standing in front of the respective figure](mural1.jpg)
 
 ## Coffee Land
 
-We has quite a bit of coffee shops. However most of them close by 3. We have the standard starbucks, and New Hampshire is known for loving [Dunkin dounuts](https://www.dunkindonuts.com/en). However these are the coffee shops in town, with great coffee and food.
+We has quite a bit of coffee shops. However most of them close by 3. We have the standard Starbucks, and New Hampshire is known for loving [Dunkin dounuts](https://www.dunkindonuts.com/en). However these are the coffee shops in town, with great coffee and food.
 
 * [Terragia](https://www.facebook.com/terragia/)
 * [Bonhoeffers](http://www.bonhoefferscafe.com/)
@@ -64,7 +64,7 @@ Nashua has a load of bars. Generally speaking they are open until 2am, and they 
 * Nashua Garden
 * Codex
 * O'briens
-* San Fransico Kitchen
+* San Francisco Kitchen
 * Riverwalk cafe
 * The Flight Center
 * Fuego bar and grill
@@ -75,23 +75,23 @@ Nashua has a load of bars. Generally speaking they are open until 2am, and they 
 
 ## Food
 
-There is quite a large range of food given the size of the city. Many resteraunts are also [coffee shops](#coffee-land). Nashua's resteraunts usually fall into places that close at 3pm, and places that open at 5pm. Eating between the hours of 3-5pm are quite hard. Outside of this list, there are many chain resteraunts in town, and the food court in the mall is usually good.
+There is quite a large range of food given the size of the city. Many restaurants are also [coffee shops](#coffee-land). Nashua's restaurants usually fall into to categories. Places that close at 3pm, and places that open at 5pm. Eating between the hours of 3-5pm are quite hard. Outside of this list, there are many chain restaurants in town, and the food court in the mall is usually good.
 
 ### Breakfast 
 
 * Riverwalk Cafe
-* Nortons Classic Cafe
+* Norton's Classic Cafe
 * Midfield Cafe
 * City room cafe
-* Poor Pierres
+* Poor Pierre's
 * Temple street diner
 * Nancy's diner
 
 ### Lunch
 
-* Nashua Garden - Deli sandwidges in a bar
+* Nashua Garden - Deli in a bar
 * California Burrito 
-* Cedars cafe - mediterranean affair
+* Cedars cafe - Mediterranean affair
 * Crane - Chinese
 * Fratello's - Italian 
 * Giant of Siam - Thai
@@ -114,5 +114,5 @@ There is quite a large range of food given the size of the city. Many resteraunt
 
 ## Great American Downtown
 
-Nashua has a non-profit in town called [Great American Downtown](http://downtownnashua.org/) which is really focused on improving Nashua. They host, and coodinate many events in Nashua. [Their calendar](http://downtownnashua.org/events/) usually contains any events that are happening in town.
+Nashua has a non-profit in town called [Great American Downtown](http://downtownnashua.org/) which is really focused on improving Nashua. They host, and coordinate many events in Nashua. [Their calendar](http://downtownnashua.org/events/) usually contains any events that are happening in town.
 
