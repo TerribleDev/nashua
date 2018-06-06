@@ -16,7 +16,7 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
 * [Coffee Land](#coffee-land)
 * [Food by Genre](#food-by-genre)
   * Bagles
-* [Street art](#street-art)
+* [Murals](#murals)
 * [Great american downtown](#great-american-downtown)
 * [See also](#see-also)
 
@@ -47,3 +47,8 @@ Nashua has quite a bit of coffee shops. However most of them close by 3. We have
 * [Great Harvest Bread Company](http://greatharvestnashua.com/)
 * [Seedling Cafe](http://theseedlingcafe.com)
 
+## Murals
+
+The city of nashua has a bunch of awesome murals. You can see where all the murals in [this google map](https://www.google.com/maps/d/viewer?mid=1QDZzmmF54-I8nXO0vhxPcLkFig0&hl=en&ll=42.760100231886256%2C-71.46786625000004&z=16). Nashua's murals were made by [Positive Street Art](http://www.positivestreetart.org/), a really cool non-profit in town
+
+![A mural dedication was held on the morning of Veterans Day, 2017 where this above image was taken. It depicts veterans in attendance representing their branch by standing in front of the respective figure](mural1.jpg)
