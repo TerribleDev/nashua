@@ -44,7 +44,7 @@ The city of Nashua has a bunch of awesome murals. You can see where all the mura
 
 ## Coffee Land
 
-We has quite a bit of coffee shops. However most of them close by 3. We have the standard Starbucks, and New Hampshire is known for loving [Dunkin dounuts](https://www.dunkindonuts.com/en). However these are the coffee shops in town, with great coffee and food.
+We have quite a bit of coffee shops. However most of them close by 3. We have the standard Starbucks, and New Hampshire is known for loving [Dunkin dounuts](https://www.dunkindonuts.com/en). However these are the coffee shops in town, with great coffee and food.
 
 * [Terragia](https://www.facebook.com/terragia/)
 * [Bonhoeffers](http://www.bonhoefferscafe.com/)
