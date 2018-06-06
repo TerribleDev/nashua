@@ -3,7 +3,7 @@
 
 ## AKA The Gate City
 
-Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is a a half hour hour drive from Manchester, and an hour drive to Boston, and Portsmouth. We're famous for having a [Dunder Mifflin](http://theoffice.wikia.com/wiki/Dunder_Mifflin_Nashua) branch in the show *the office*. We were named twice the best place to live by money magazine. 
+Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is a a half hour drive from Manchester, and an hour drive to Boston and Portsmouth. We're famous for having a [Dunder Mifflin](http://theoffice.wikia.com/wiki/Dunder_Mifflin_Nashua) branch in the show *The Office*. We were twice named one of the best places to live by [Money magazine](http://time.com/money/5108196/best-places-to-live-every-state-us/).
 
 
 ![Nashua city hall](city.jpg)
@@ -22,23 +22,23 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
 
 ## Travel Tips
 
-* We're only a half hour drive from the [Manchester airport](https://www.flymanchester.com/). If you can, fly into Manchester. The airport is smaller, and the staff are friendly. 
-  * Parking in Manchester is only $10/day compared to boston which is $70 for the first day, and $30 for each additional.
+* We're only a half hour drive from the [Manchester Airport](https://www.flymanchester.com/). If you can, fly into Manchester. The airport is smaller, and the staff are friendly.
+  * Parking in Manchester is only $10/day compared to Boston which is $70 for the first day, and $30 for each additional.
 * We're about an hours drive from Boston's Logan airport.
-* We have uber, also lyft. There tends to be more uber drivers than lyft.
+* We have Uber, also Lyft. There tend to be more Uber drivers than Lyft.
 * Cabs have to dispatched, you can't hail them.
-* There are basically 3 area's of Nashua. Downtown, South Nashua, and North.
-  * Most people in nashua reference these places based on their exits on Route 3.
-  * Downtown mostly has mom and pop stores (exit 4,5,6)
-  * South end has the mall (exit 1,2)
-  * North end has a bunch of offices, and strip malls (exit 7,8)
-* There are green bikes for rent in town. You can use an app to ride them around
+* There are basically 3 areas of Nashua: Downtown, South Nashua, and North Nashua.
+  * Most people in Nashua reference these places based on their exits on Route 3.
+  * Downtown mostly has mom and pop stores (exits 4, 5, and 6)
+  * South end has the mall (exits 1 and 2)
+  * North end has a bunch of offices, and strip malls (exits 7 and 8)
+* There are teal bikes for rent in town. [You can use an app to ride them around](https://www.veoride.com/).
 * The busses are fantastic. View the [schedule online](https://www.nashuanh.gov/456/Routes-Schedules).
-* There is a free "trolly" on Friday's and Saturday's that runs through downtown, and around the parking garages.
+* There is a free "trolley" on Fridays and Saturdays that runs through downtown, and around the parking garages.
 
 ## Murals
 
-The city of Nashua has a bunch of awesome murals. You can see where all the murals in [this google map](https://www.google.com/maps/d/viewer?mid=1QDZzmmF54-I8nXO0vhxPcLkFig0&hl=en&ll=42.760100231886256%2C-71.46786625000004&z=16). Nashua's murals were made by [Positive Street Art](http://www.positivestreetart.org/), a really cool non-profit in town
+The city of Nashua has a bunch of awesome murals. You can see where all the murals are in [this google map](https://www.google.com/maps/d/viewer?mid=1QDZzmmF54-I8nXO0vhxPcLkFig0&hl=en&ll=42.760100231886256%2C-71.46786625000004&z=16). Nashua's murals were made by [Positive Street Art](http://www.positivestreetart.org/), a really cool non-profit in town
 
 ![A mural dedication was held on the morning of Veterans Day, 2017 where this above image was taken. It depicts veterans in attendance representing their branch by standing in front of the respective figure](mural1.jpg)
 
@@ -75,36 +75,36 @@ Nashua has a load of bars. Generally speaking they are open until 2am, and they 
 
 ## Food
 
-There is quite a large range of food given the size of the city. Many restaurants are also [coffee shops](#coffee-land). Nashua's restaurants usually fall into two categories. Places that close at 3pm, and places that open at 5pm. Eating between the hours of 3-5pm are quite hard. Outside of this list, there are many chain restaurants in town, and the food court in the mall is usually good.
+There is quite a large range of food given the size of the city. Many restaurants are also [coffee shops](#coffee-land). Nashua's restaurants usually fall into two categories. Places that close at 3pm, and places that open at 5pm. Eating between the hours of 3-5pm is quite hard. Outside of this list, there are many chain restaurants in town, and the food court in the mall is usually good.
 
-### Breakfast 
+### Breakfast
 
 * Riverwalk Cafe
 * Norton's Classic Cafe
 * Midfield Cafe
-* City room cafe
+* City Room Cafe
 * Poor Pierre's
-* Temple street diner
-* Nancy's diner
+* Temple Street Diner
+* Nancy's Diner
 
 ### Lunch
 
 * Nashua Garden - Deli in a bar
-* California Burrito 
-* Cedars cafe - Mediterranean affair
+* California Burrito
+* Cedars Cafe - Mediterranean affair
 * Crane - Chinese
-* Fratello's - Italian 
+* Fratello's - Italian
 * Giant of Siam - Thai
 * El Colima - Mexican
-* Caza Mescal - Mexican 
-* City room cafe
-* Poor Pierres
-* Temple street diner
+* Caza Mescal - Mexican
+* City Room Cafe
+* Poor Pierre's
+* Temple Street diner
 * Nancy's diner
 
 ### Dinner
 
-* Stella blu - Tapas in a bar setting
+* Stella Blu - Tapas in a bar setting
 * Peddler's Daughter - Irish bar and food
 * Riverwalk BBQ
 * Surf - Seafood
@@ -115,4 +115,3 @@ There is quite a large range of food given the size of the city. Many restaurant
 ## Great American Downtown
 
 Nashua has a non-profit in town called [Great American Downtown](http://downtownnashua.org/) which is really focused on improving Nashua. They host, and coordinate many events in Nashua. [Their calendar](http://downtownnashua.org/events/) usually contains any events that are happening in town.
-
