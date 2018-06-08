@@ -1,0 +1,90 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section { 
+    width: 100%;
+    float:none;
+    position: relative;
+
+}
+footer{
+    position: relative;
+    width: 100%;
+
+}
+.navBtn{
+    position: fixed;
+    background-color: #222;
+    overflow: hidden;
+    bottom: 15%;
+    right: 8%;
+    width: 50px;
+    height: 50px;
+    z-index: 100;
+    border-radius: 50%;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 1.3em;
+    color: white;
+    box-shadow: 1px 1px 4px black;
+    &:active, &:visited { 
+      color: white;
+    }
+    i {
+      margin-top: 31%;
+    }
+    
+    
+}
+header > h4 {
+    color: white;
+    text-align: center
+}
+
+
+.closeNav{
+  position: absolute;
+  right: 10%;
+  top: 2%;
+  color: white;
+  font-size: 1.5em;
+}
+.hamNav{
+  position: fixed;
+  height: 0;
+  width: 0;
+  overflow-y: auto;
+  overflow-x: visible;
+  transition: 0.5s,
+  box-shadow 0.3s ease;
+  background: #222;
+  top: 0;
+  left: 0;
+  z-index: 9999999;
+  padding-top: 8%;
+  height: 100%;
+  text-align: center;
+  p,h1,h2,h3,h4,span,div,ul,li{
+    color: white;
+  }
+  ul { 
+    padding-left: 0;
+    li {
+      list-style-type: none;
+      font-size: 1.5em;
+      padding-bottom: 4%;
+      margin-left: 0;
+      a, a:visited {
+        color: white
+      }
+    }
+  }
+  &.show{
+    width: 100%;
+  }
+}
+a:hover{
+  cursor: pointer;
+}

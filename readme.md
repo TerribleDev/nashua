@@ -8,17 +8,6 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
 
 ![Nashua city hall](city.jpg)
 
-## Table of Contents
-
-* [Travel Tips](#travel-tips)
-* [Murals](#murals)
-* [Coffee Land](#coffee-land)
-* [Bars](#bars)
-* [Food](#food)
-  * [Breakfast](#breakfast)
-  * [Lunch](#lunch)
-  * [Dinner](#dinner)
-* [Great American Downtown](#great-american-downtown)
 
 ## Travel Tips
 
@@ -34,7 +23,6 @@ Hello, and welcome to the *gate city*. We are happy you are visiting. Nashua is 
   * North end has a bunch of offices, and strip malls (exits 7 and 8)
 * There are teal bikes for rent in town. [You can use an app to ride them around](https://www.veoride.com/).
 * The busses are fantastic. View the [schedule online](https://www.nashuanh.gov/456/Routes-Schedules).
-* There is a free "trolley" on Fridays and Saturdays that runs through downtown, and around the parking garages.
 
 ## Murals
 
