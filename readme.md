@@ -45,7 +45,7 @@ We have quite a bit of coffee shops. However most of them close by 3. We have th
 
 ## Bars
 
-Nashua has a load of bars. Generally speaking they are open until 2am, and they are fantastic. This list will probably never be complete, but here are some local favorites.
+Nashua has a load of bars. Generally speaking they are open until 1am, and they are fantastic. This list will probably never be complete, but here are some local favorites.
 
 * MT's Wine and bar
 * The Peddler's Daughter
@@ -74,12 +74,14 @@ There is quite a large range of food given the size of the city. Many restaurant
 * Poor Pierre's
 * Temple Street Diner
 * Nancy's Diner
+* City Moose Cafe
 
 ### Lunch
 
 * Nashua Garden - Deli in a bar
 * California Burrito
 * Cedars Cafe - Mediterranean affair
+* City moose cafe
 * Crane - Chinese
 * Fratello's - Italian
 * Giant of Siam - Thai
@@ -99,6 +101,22 @@ There is quite a large range of food given the size of the city. Many restaurant
 * Martha's Exchange - American food, with beer brewed on site
 * Fratello's - Italian
 
+## Shopping
+
+Incase you didn't know, New Hampshire has no sales tax! That means shopping doesn't come with extra costs. The [Pheasant lane mall](http://www.simon.com/mall/pheasant-lane-mall) is one of the largest malls in NH. The nearby [Merrimack outlets](http://www.premiumoutlets.com/outlet/merrimack) are home to several upscale outlet stores.
+
+There are also several local businesses that are worth shopping at.
+
+### Clothing
+
+* [Fresh of nashua](http://www.freshofnashua.com/)
+* Dick Avard's Haberdashery
+* [camaraderie boutique](https://www.camaraderiestyle.com/)
+
+
+### Furnature/Household
+
+We have the standard Lowes, and Home Depot. Both of which are quite nice, but here are other places in town you may not think of.
 
 ## Great American Downtown
 
