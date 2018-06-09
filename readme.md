@@ -114,9 +114,34 @@ There are also several local businesses that are worth shopping at.
 * [camaraderie boutique](https://www.camaraderiestyle.com/)
 
 
-### Furnature/Household
+### Furnature/Home décor 
 
 We have the standard Lowes, and Home Depot. Both of which are quite nice, but here are other places in town you may not think of.
+
+* [Pompanoosuc Mills](https://www.pompy.com/)
+* [Scontsas home décor and Jewelry](http://www.scontsas.com/site/)
+* [Glorious Possibilities](https://www.gloriouspossibilities.com/)
+* [Nashua Wallpaper and paint](http://www.nashuablinds.com/)
+* [Snap! It's Vintage](http://downtownnashua.org/meet-the-langs-at-snap-its-vintage/)
+
+### Flowers and gits
+
+* [Fortin Gage](https://fortingage.com/)
+* [Flower Outlet](https://nashuafloweroutlet.com/)
+* [Terragia](https://www.facebook.com/terragia/)
+* [League of NH Craftsmen Nashua Fine Craft Gallery](http://nashua.nhcrafts.org/)
+* [Headlines Boutique](http://shopheadlines.com/)
+
+### Jewelry
+
+* [Cardin Jeweler](https://www.cardinjewelers.com/)
+* [Scontsas home décor and Jewelry](http://www.scontsas.com/site/)
+* [League of NH Craftsmen Nashua Fine Craft Gallery](http://nashua.nhcrafts.org/)
+* [Marquise Jewelers](http://www.marquisejewelers.com/)
+* [Barmakian Jewelers](https://www.barmakian.com/)
+* [Longs Jewelers](https://www.longsjewelers.com/)
+* [Belden Jewelers](http://stores.sterlingjewelers.com/nh/nashua/310-daniel-webster-hwy-.html?cid=YEXT)
+
 
 ## Great American Downtown
 
