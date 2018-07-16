@@ -22,10 +22,10 @@
   </head>
   <body>
       <header>
-          <a role="button" href="#hamMenu" class="navBtn" onclick="triggerHamburg()"><i class="fas fa-bars"></i></a>
+          <a role="button" href="#hamMenu" class="navBtn" ><i class="fas fa-bars"></i></a>
       </header>
       <nav class="hamNav">
-        <a type="button" onclick="hideNav()" ><i class="closeNav fas fa-times-circle" ></i></a>
+        <a href="#"><i class="closeNav fas fa-times-circle" ></i></a>
         <ul>
             <li><a href="#travel-tips">Travel Tips</a></li>
             <li><a href="#murals">Murals</a></li>
@@ -56,13 +56,15 @@
     <script src="{{ "/assets/js/scale.fix.js?v=" | append: site.github.build_revision | relative_url }}"></script>
     <script src="{{ "/assets/js/hotdog.js?v=" | append: site.github.build_revision | relative_url }}"></script>
     <script>
-      window.onpopstate = function(e){
+      function onHashChange(e){
         if(window.location.hash.includes("hamMenu")){
           showNav();
         } else{
           hideNav();
         }
       }
+      window.onhashchange = onHashChange;
+      onHashChange();
     </script>
   </body>
 </html>
