@@ -32,7 +32,7 @@ The city of Nashua has a bunch of awesome murals. You can see where all the mura
 
 ## Coffee Land
 
-We have quite a bit of coffee shops. However most of them close by 3. We have the standard Starbucks, and New Hampshire is known for loving [Dunkin dounuts](https://www.dunkindonuts.com/en). However these are the coffee shops in town, with great coffee and food.
+We have quite a bit of coffee shops. However most of them close by 3. We have the standard Starbucks, and New Hampshire is known for loving [Dunkin dounuts](https://www.dunkindonuts.com/en). However we have other great coffee shops in town!
 
 * [Terragia](https://www.facebook.com/terragia/)
 * [Bonhoeffers](http://www.bonhoefferscafe.com/)
@@ -60,6 +60,7 @@ Nashua has a load of bars. Generally speaking they are open until 1am, and they 
 * Stella Blu
 * 110 Grill
 * Martha's exchange
+* Odd Fellows Brewery
 
 ## Food
 
@@ -88,6 +89,7 @@ There is quite a large range of food given the size of the city. Many restaurant
 * El Colima - Mexican
 * Caza Mescal - Mexican
 * City Room Cafe
+* Norton's Classic Cafe
 * Poor Pierre's
 * Temple Street diner
 * Nancy's diner
@@ -100,10 +102,12 @@ There is quite a large range of food given the size of the city. Many restaurant
 * Surf - Seafood
 * Martha's Exchange - American food, with beer brewed on site
 * Fratello's - Italian
+* 110 Grill
+* Fody's Tavern
 
 ## Shopping
 
-Incase you didn't know, New Hampshire has no sales tax! That means shopping doesn't come with extra costs. The [Pheasant lane mall](http://www.simon.com/mall/pheasant-lane-mall) is one of the largest malls in NH. The nearby [Merrimack outlets](http://www.premiumoutlets.com/outlet/merrimack) are home to several upscale outlet stores.
+Incase you didn't know, New Hampshire has no sales tax! That means shopping doesn't come with extra costs. The [Pheasant lane mall](http://www.simon.com/mall/pheasant-lane-mall) is one of the largest malls in NH. The nearby [Merrimack outlets](http://www.premiumoutlets.com/outlet/merrimack) are home to several upscale outlet stores. 
 
 There are also several local businesses that are worth shopping at.
 
