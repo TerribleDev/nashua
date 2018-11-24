@@ -146,6 +146,30 @@ We have the standard Lowes, and Home Depot. Both of which are quite nice, but he
 * [Longs Jewelers](https://www.longsjewelers.com/)
 * [Belden Jewelers](http://stores.sterlingjewelers.com/nh/nashua/310-daniel-webster-hwy-.html?cid=YEXT)
 
+### Antiques & Collectables 
+
+* [Nashua Coins & Collectibles](https://nashuacoins.com/)
+
+## Recreation
+
+We have many great trails and indoor gyms!
+
+### Trails
+
+* [Mine falls](https://www.tripadvisor.com/Attraction_Review-g46172-d648578-Reviews-Mine_Falls_Park-Nashua_New_Hampshire.html) 
+* [River Rail Trail](https://www.tripadvisor.com/ShowUserReviews-g41765-d4700885-r254964385-Nashua_River_Rail_Trail-Pepperell_Massachusetts.html)
+* [Heritage rail Trail](https://www.traillink.com/trail/nashua-heritage-rail-trail/)
+
+### Parks
+
+* [Greeley Park](https://www.tripadvisor.com/Attraction_Review-g46172-d630641-Reviews-Greeley_Park-Nashua_New_Hampshire.html)
+
+### Indoor Recreation
+
+* [SkyVenture - Indoor skydiving, surfing, rock climbing](https://skyventurenh.com/)
+* [Vertical Dreams - Rock climbing](https://verticaldreams.com/)
+* [Launch - Trampoline Park](http://launchnashua.com/)
+* [Fun World - Arcade, small rides](http://www.funworldnh.com/)
 
 ## Great American Downtown
 
