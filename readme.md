@@ -126,7 +126,6 @@ We have the standard Lowes, and Home Depot. Both of which are quite nice, but he
 * [Scontsas home décor and Jewelry](http://www.scontsas.com/site/)
 * [Glorious Possibilities](https://www.gloriouspossibilities.com/)
 * [Nashua Wallpaper and paint](http://www.nashuablinds.com/)
-* [Snap! It's Vintage](http://downtownnashua.org/meet-the-langs-at-snap-its-vintage/)
 
 ### Flowers and gits
 
@@ -149,6 +148,7 @@ We have the standard Lowes, and Home Depot. Both of which are quite nice, but he
 ### Antiques & Collectables 
 
 * [Nashua Coins & Collectibles](https://nashuacoins.com/)
+* [Snap! It's Vintage](http://downtownnashua.org/meet-the-langs-at-snap-its-vintage/)
 
 ## Recreation
 
