@@ -48,6 +48,7 @@ We have quite a bit of coffee shops. However most of them close by 3. We have th
 Nashua has a load of bars. Generally speaking they are open until 1am, and they are fantastic. This list will probably never be complete, but here are some local favorites.
 
 * MT's Wine and bar
+* Liquid Therapy
 * The Peddler's Daughter
 * Nashua Garden
 * Codex
